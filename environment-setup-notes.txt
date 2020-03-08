@@ -1,0 +1,8 @@
+install numpy
+conda install anaconda-client
+conda install -c conda-forge opencv
+conda install -c anaconda pyqt
+pip install python-magic-bin==0.4.14
+conda install -c anaconda pillow
+python -m pip install pygame
+conda install -c anaconda scipy
